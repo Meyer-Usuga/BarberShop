@@ -349,6 +349,10 @@ nav {
   font-size: 1rem;
 }
 
+.btn-close:focus {
+  outline: none;
+}
+
 .modal-header .modal-closed {
   text-align: end;
 }
